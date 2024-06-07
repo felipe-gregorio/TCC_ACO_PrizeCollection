@@ -1,0 +1,60 @@
+Execution 1:
+Best Cost: [0, 7, 5, 10, 9, 14, 6, 11, 8, 2, 12, 3, 13, 1, 4, 0]
+Total Cost of Best Solution: 3684
+Objective Value: 3544.4
+Execution Time: 0.0 seconds
+
+Execution 2:
+Best Cost: [0, 7, 5, 10, 9, 14, 6, 11, 8, 2, 12, 3, 13, 1, 4, 0]
+Total Cost of Best Solution: 3684
+Objective Value: 3544.4
+Execution Time: 0.0 seconds
+
+Execution 3:
+Best Cost: [0, 7, 5, 10, 9, 14, 6, 11, 8, 2, 12, 3, 13, 1, 4, 0]
+Total Cost of Best Solution: 3684
+Objective Value: 3544.4
+Execution Time: 0.0 seconds
+
+Execution 4:
+Best Cost: [0, 7, 5, 10, 9, 14, 6, 11, 8, 2, 12, 3, 13, 1, 4, 0]
+Total Cost of Best Solution: 3684
+Objective Value: 3544.4
+Execution Time: 0.0 seconds
+
+Execution 5:
+Best Cost: [0, 7, 5, 10, 9, 14, 6, 11, 8, 2, 12, 3, 13, 1, 4, 0]
+Total Cost of Best Solution: 3684
+Objective Value: 3544.4
+Execution Time: 0.0 seconds
+
+Execution 6:
+Best Cost: [0, 7, 5, 10, 9, 14, 6, 11, 8, 2, 12, 3, 13, 1, 4, 0]
+Total Cost of Best Solution: 3684
+Objective Value: 3544.4
+Execution Time: 0.0 seconds
+
+Execution 7:
+Best Cost: [0, 7, 5, 10, 9, 14, 6, 11, 8, 2, 12, 3, 13, 1, 4, 0]
+Total Cost of Best Solution: 3684
+Objective Value: 3544.4
+Execution Time: 0.0 seconds
+
+Execution 8:
+Best Cost: [0, 7, 5, 10, 9, 14, 6, 11, 8, 2, 12, 3, 13, 1, 4, 0]
+Total Cost of Best Solution: 3684
+Objective Value: 3544.4
+Execution Time: 0.0 seconds
+
+Execution 9:
+Best Cost: [0, 7, 5, 10, 9, 14, 6, 11, 8, 2, 12, 3, 13, 1, 4, 0]
+Total Cost of Best Solution: 3684
+Objective Value: 3544.4
+Execution Time: 0.0 seconds
+
+Execution 10:
+Best Cost: [0, 7, 5, 10, 9, 14, 6, 11, 8, 2, 12, 3, 13, 1, 4, 0]
+Total Cost of Best Solution: 3684
+Objective Value: 3544.4
+Execution Time: 0.0 seconds
+
